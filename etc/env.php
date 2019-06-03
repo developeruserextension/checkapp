@@ -13,7 +13,7 @@ return [
                 'host' => 'localhost',
                 'dbname' => 'versatables',
                 'username' => 'root',
-                'password' => 'versaroot',
+                'password' => '234!r24rd#',
                 'active' => '1'
             ]
         ]
@@ -26,7 +26,7 @@ return [
     'x-frame-options' => 'SAMEORIGIN',
     'MAGE_MODE' => 'developer',
     'session' => [
-        'save' => 'files'
+        'save' => 'db'
     ],
     'cache_types' => [
         'config' => 1,
